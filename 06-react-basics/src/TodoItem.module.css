@@ -1,4 +1,3 @@
-/* Layout container from App.jsx */
 .container {
   max-width: 400px;
   margin: 30px auto;
@@ -37,7 +36,6 @@
   background-color: #0056b3;
 }
 
-/* Todo item styling */
 .todoItem {
   padding: 10px;
   margin: 8px 0;
